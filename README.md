@@ -29,14 +29,14 @@ Peter Gutenko (Software & Software/Hardware Integration)
 
 ## See People Trying it Out!
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/preview" width="640" height="480"></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/view?usp=sharing)! )
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/preview" width="640" height="480"></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/view)!)
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/preview" width="640" height="480"></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view?)
