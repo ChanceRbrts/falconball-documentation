@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des/view" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+If the video doesn't work, click the link: https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des/view
+
 ## Project Description
 
 This is a platform that controls a Super Monkey Ball-like game. With this platform, you tilt it in order to move a marble within a game. Your goal is to collect the cubes, while trying not to fall off the platform. However, the game will also interact with you; namely, when you collide with walls, the platform will jerk back and provide haptic feedback to the player, making this platform much more immersive.
@@ -24,3 +26,17 @@ Peter Gutenko (Software & Software/Hardware Integration)
 * Three 3D Printed Parts [(Seen here)](https://drive.google.com/file/d/17SCNblyjmt6xiE_PzqIuWfQsTN8A_lu0/view?usp=sharing)
 * A Simple Foam Platform (Or a 3D Printed One)
 * Various Pieces from the VEX Metal & Hardware Kit
+
+## See People Trying it Out!
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/view" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+(If that doesn't work, click [this](https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/view?usp=sharing)! )
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/view" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+(If that doesn't work, click [this](https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/view)!)
+
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+(If that doesn't work, click [this](https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view?)
