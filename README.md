@@ -1,6 +1,6 @@
 # Super Monkey Ball 3 (Falcon Ball)
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 If the video doesn't work, click the link: https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des
 
@@ -29,14 +29,14 @@ Peter Gutenko (Software & Software/Hardware Integration)
 
 ## See People Trying it Out!
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/view?usp=sharing)! )
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1h2AkBnbCdRst4vctfDhattXeIHwpTmFW/view)!)
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 (If that doesn't work, click [this](https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view?)
