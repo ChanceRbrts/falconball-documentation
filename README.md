@@ -1,6 +1,6 @@
 # Super Monkey Ball 3 (Falcon Ball)
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des/preview" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des/preview" width="640" height="480"></iframe>
 
 If the video doesn't work, click the link: https://drive.google.com/file/d/1DUg0XQv8CPKBA6sZ_P78x3E6aWkN5Des
 
