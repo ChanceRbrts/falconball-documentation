@@ -10,7 +10,7 @@ This is a platform that controls a Super Monkey Ball-like game. With this platfo
 
 This project uses the Novint Falcon as a base for the platform; The Novint Falcon was a haptic device that was around in the early 2000s that used three motors and potentiometers; When you tilt the platform, it tilts these potentiometers and moves the ball at the bottom of the platform, which sends it's position to the computer as mouse data. The platform itself is connected to the Falcon by three holders that are connected to the potentiometers of the platform, making it so when you tilt the platform, you also move the mouse.
 
-On the software side, we communicate with Unity through a combination of drivers for the Novint Falcon written in C and (Peter, how did you do the haptic feedback?) When the Unity Scene starts, it starts up a C program that allows the Falcon to hijack the mouse. From there, we check the tilting of the ball by the position that the mouse currently is, which corresponds to the tilt of the mouse. To provide haptic feedback, we...
+On the software side, we communicate with Unity through a combination of drivers for the Novint Falcon written in C and a C# Unity script. When the Unity Scene starts, it starts up a C program that allows the Falcon to control the mouse. The Unity scene uses the mouse to control the ball.  The C# script then sends force-feedback data to the C driver by writing to its standard input, and the driver handles timing and applying the actual forces.
 
 ## Team Members
 
@@ -39,4 +39,4 @@ Peter Gutenko (Software & Software/Hardware Integration)
 
 <iframe src="https://drive.google.com/file/d/1sGxxnrIiRAtWLJpJQj57ZGTuIsVGa0KO/preview" width="640" height="480"></iframe>
 
-(If that doesn't work, click [this](https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view?)
+(If that doesn't work, click [this](https://drive.google.com/file/d/1CHRlzGBlbZ6K87bdb7DcS2Jgntb00ShS/view?))
